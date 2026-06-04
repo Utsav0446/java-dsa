@@ -8,7 +8,6 @@ public class SwappingOfArray {
         return;
     }
     public static void main(String[] args) {
-        // Scanner sc = new Scanner(System.in);
         int[] arr = {1,2,3,4,5};
         int x= 0;
         int y= arr.length-1;
